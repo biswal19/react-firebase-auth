@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-firebase-auth/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-firebase-auth/static/js/main.b7d13fc8.chunk.js",
+    "main.js.map": "/react-firebase-auth/static/js/main.b7d13fc8.chunk.js.map",
+    "runtime-main.js": "/react-firebase-auth/static/js/runtime-main.b780e50f.js",
+    "runtime-main.js.map": "/react-firebase-auth/static/js/runtime-main.b780e50f.js.map",
+    "static/css/2.864a8cc1.chunk.css": "/react-firebase-auth/static/css/2.864a8cc1.chunk.css",
+    "static/js/2.ce5cb18e.chunk.js": "/react-firebase-auth/static/js/2.ce5cb18e.chunk.js",
+    "static/js/2.ce5cb18e.chunk.js.map": "/react-firebase-auth/static/js/2.ce5cb18e.chunk.js.map",
+    "index.html": "/react-firebase-auth/index.html",
+    "precache-manifest.3578d35f43d5cfa6d6b77eaa34fdfb83.js": "/react-firebase-auth/precache-manifest.3578d35f43d5cfa6d6b77eaa34fdfb83.js",
+    "service-worker.js": "/react-firebase-auth/service-worker.js",
+    "static/css/2.864a8cc1.chunk.css.map": "/react-firebase-auth/static/css/2.864a8cc1.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/react-firebase-auth/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ce5cb18e.chunk.js.LICENSE.txt": "/react-firebase-auth/static/js/2.ce5cb18e.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.css": "/react-firebase-auth/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b780e50f.js",
+    "static/css/2.864a8cc1.chunk.css",
+    "static/js/2.ce5cb18e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b7d13fc8.chunk.js"
+  ]
+}
